@@ -4,11 +4,13 @@
 
 ## Links
 
-- [Live](<> "Live view")
+- [Live](<https://progressive-web-text-editor.herokuapp.com/> "Live view")
 
 ## Screenshots
 
-![sadfads])(/assets/screenshots/1.png "sadfads")
+![App in browser](/assets/screenshots/1.png "App in browser")
+
+![App when downloaded](/assets/screenshots/2.png "App when downloaded")
 
 ## Built With
 
