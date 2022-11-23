@@ -26,7 +26,7 @@ warmStrategyCache({
 
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
-// TODO: Implement asset caching
+// asset caching to quicken loading times for the app
 registerRoute(
   ({ request }) => ['style', 'script', 'worker',].includes(request.destination),
   new StaleWhileRevalidate({
